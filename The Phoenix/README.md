@@ -52,7 +52,7 @@ while a judge is reading them.
 <!-- TODO: mandatory, 2 to 3 minutes, must show the curve and filters working
      live and the LibreChat chat flow end to end. -->
 
-TODO: demo video URL.
+[The Phoenix - Concurrency](https://www.loom.com/share/b0b841b7131d463689cdf4774663b97f)
 
 ## Pitch Deck
 
